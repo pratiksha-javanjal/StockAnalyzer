@@ -1,0 +1,196 @@
+{"stocks": [{
+  "id":1,
+  "name": "Bajaj Finance",
+  "about": "Bajaj Finserv Ltd. is the holding company for the various financial services businesses under the Bajaj group. It serves millions of customers by providing solutions for asset acquisition through financing, asset protection through general insurance, family and income protection in the form of life and health insurance, and retirement and savings solutions.",
+  "marketCap": 260298,
+  "stockPE" : 47.6,
+  "roce" : "11.4 %",
+  "currentPrice" : 1634,
+  "high" : 1862,
+  "low" : 1073
+
+},
+{
+  "id":2,
+  "name": "Adani Enterprises Ltd",
+  "about": "Adani Enterprises Ltd has business interests in various economic areas such as mining, integrated resources management (IRM), infrastructure such as airports, roads, rail/ metro, water, data centres, solar manufacturing, agro and defence",
+  "marketCap": 448066,
+  "stockPE" : 371,
+  "roce" : "7.28 %",
+  "currentPrice" : 3930,
+  "high" : 4098,
+  "low" : 1529
+
+},
+{
+  "id":3  ,
+    "name": "Axis Bank Ltd",
+    "about": "Axis Bank is the third largest private sector bank in India. The Bank offers the entire spectrum of financial services to customer segments covering Large and Mid-Corporates, MSME, Agriculture and Retail Businesses.",
+    "marketCap": 276419,
+    "stockPE" : 15.0,
+    "roce" : "5.15 %",
+    "currentPrice" : 899,
+    "high" : 920,
+    "low" : 618
+  },
+  {
+  "id":4  ,
+    "name": "Cipla Ltd",
+    "about": "Cipla is engaged in the Business of Pharmaceuticals.(Source : 202003 Annual Report Page No:157)",
+    "marketCap": 90017,
+    "stockPE" : 34.7,
+    "roce" : "17.5%",
+    "currentPrice" : 1151 ,
+    "high" : 1185,
+    "low" : 890
+  },
+  {
+  "id":5,
+    "name": "Finolex Industries Ltd",
+    "about": "Finolex Industries Limited (FIL) is a leading manufacturer of PVC Resin and the largest producer of PVC Pipes & Fittings in India. The Company offers the latest range of superior quality and durable PVC-U pipes and fittings used in agriculture, construction and industrial operations.",
+    "marketCap": 10818 ,
+    "stockPE" : 28.0,
+    "roce" : "27.4%",
+    "currentPrice" :174 ,
+    "high" : 215,
+    "low" : 122
+  },
+  {
+  "id":6,
+    "name": "Godrej Properties Ltd",
+    "about": "Godrej Properties Limited (GPL) is the real estate development arm of the Godrej Group, which was started in 1897 and is today one of India’s most successful conglomerates. Godrej Properties brings the Godrej Group philosophy of innovation, sustainability, and excellence to the real estate industry",
+    "marketCap": 37683 ,
+    "stockPE" : 95.2,
+    "roce" : "4.83%",
+    "currentPrice" :1355 ,
+    "high" : 2125,
+    "low" : 1130
+  
+  },
+  {
+  "id":7,
+    "name": "Hindustan Unilever Ltd",
+    "about": ".Hindustan Unilever is in the FMCG business comprising primarily of Home Care, Beauty & Personal Care and Foods & Refreshment segments. The Company has manufacturing facilities across the country and sells primarily in India",
+    "marketCap": 615558,
+    "stockPE" : 63.5,
+    "roce" : "24.3%",
+    "currentPrice" :2620 ,
+    "high" : 2734,
+    "low" : 1902
+  
+  },
+  {
+  "id":8,
+    "name": "Infosys Ltd",
+    "about": "Infosys Ltd provides consulting, technology, outsourcing and next-generation digital services to enable clients to execute strategies for their digital transformation.[1] It is the 2nd largest Information Technology company in India behind TCS.",
+    "marketCap": 690020,
+    "stockPE" : 30.2,
+    "roce" : "37.8%",
+    "currentPrice" :1640 ,
+    "high" : 1954,
+    "low" : 1355
+  },
+  {
+  "id":9,
+    "name": "J K Cements Ltd",
+    "about": "The Company is engaged in the manufacturing and selling of Cement and Cement related products with over 4 decades of experience in cement manufacturing. It is an affiliate of the multi-disciplinary industrial conglomerate JK Organisation",
+    "marketCap": 24653,
+    "stockPE" : 40.3,
+    "roce" : "16.6%",
+    "currentPrice" : 3191,
+    "high" : 3659,
+    "low" : 2009
+  },
+  {
+  "id":10,
+    "name": "KPIT Technologies Ltd",
+    "about": "KPIT is a global technology company with software solutions that will help mobility leapfrog towards autonomous, clean, smart and connected future. With 6000+ Automobelievers across the globe, specializing in embedded software, AI & Digital solutions, KPIT enables customers accelerate implementation of next generation mobility technologies .",
+    "marketCap":  19689,
+    "stockPE" : 62.0,
+    "roce" : "24.8%",
+    "currentPrice" : 718,
+    "high" : 801,
+    "low" : 440
+  },
+  {
+  "id":11,
+    "name": "Lupin Ltd",
+    "about": "Lupin is engaged in the business of Manufacture of Pharmaceuticals.",
+    "marketCap": 35019,
+    "stockPE" : 457,
+    "roce" : "-7.6%",
+    "currentPrice" : 770,
+    "high" : 972,
+    "low" : 583
+  },
+  {
+  "id":12,
+    "name": "MRF Ltd",
+    "about": "Madras Rubber Factory Limited (MRF) is the parent company of the MRF Group. The Co is engaged in the business of manufacturing tyres",
+    "marketCap":40142  ,
+    "stockPE" : 70.7,
+    "roce" : "7.8%",
+    "currentPrice" :94674 ,
+    "high" : 96000,
+    "low" : 62944
+  },
+  {
+  "id":13,
+    "name": "Oil India Ltd",
+    "about": "Oil India Ltd is engaged in exploration, development and production of crude oil and natural gas, transportation of crude oil and production of LPG. It also provides various E&P related services for oil blocks",
+    "marketCap": 22989,
+    "stockPE" : 2.83,
+    "roce" : "21.6%",
+    "currentPrice" :212 ,
+    "high" : 306,
+    "low" : 168
+  },
+  {
+  "id":14,
+    "name": "Page Industries Ltd",
+    "about": "Incorporated in 1995, Page Industries Limited is the exclusive licensee of JOCKEY International Inc. for manufacturing, distribution and marketing of the JOCKEY® brand in India, Sri Lanka, Bangladesh, Nepal and the UAE. Page Industries is also the exclusive licensee of Speedo International Ltd. for the manufacturing, marketing and distribution of the Speedo brand in India.",
+    "marketCap": 53000,
+    "stockPE" : 72.2,
+    "roce" : "67.2%",
+    "currentPrice" :47533 ,
+    "high" : 54676,
+    "low" : 36783
+  },
+  {
+  "id":15,
+    "name": "Rajesh Exports Ltd",
+    "about": "Rajesh Exports Ltd is headquartered in Bangalore and is involved in Extensive global manufacturing of gold and gold products and marketing network with distribution through Exports, Wholesale and directly to consumers by its own retail brand. It refines over 35% of world's gold.",
+    "marketCap": 21716,
+    "stockPE" : 20.2,
+    "roce" : "8.85%",
+    "currentPrice" : 726,
+    "high" : 995,
+    "low" : 516
+  },
+  {
+  "id":16,
+    "name": "Whirlpool of India Ltd",
+    "about": "Whirlpool of India Ltd is one of the leading manufacturers and marketers of major home appliances in the country",
+    "marketCap": 19405 ,
+    "stockPE" : 74.8,
+    "roce" : "10.7%",
+    "currentPrice" :1530 ,
+    "high" : 2069,
+    "low" : 1345
+  },
+  {
+  "id":17,
+    "name": "Vedanta Ltd",
+    "about": "Vedanta Ltd is a diversified natural resource group engaged in exploring, extracting and processing minerals and oil & gas. The group engages in the exploration, production and sale of zinc, lead, silver, copper, aluminium, iron ore and oil & gas.",
+    "marketCap": 118672,
+    "stockPE" : 7.23,
+    "roce" : "32.2%",
+    "currentPrice" :319 ,
+    "high" : 441,
+    "low" : 206
+  }
+  
+
+
+
+]}
